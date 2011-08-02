@@ -28,7 +28,6 @@ public class App {
 		
 		Arrays.sort(output);
 		
-		for (int j = 0; j < output.length; j++)
-            System.out.print(output[j] + " ");
+		for (int j = 0; j < output.length; j++) System.out.print(output[j] + " ");
 	}
 }
